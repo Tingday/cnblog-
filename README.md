@@ -6,6 +6,11 @@
 3.requests
 4.Pycharm 推荐使用
 </pre>
+<h3>2020-03-08 bug fix</h3>
+<pre>
+1.bug fix;
+2.change main.py file
+</pre>
 <h3>2020-02-01 文章内容的采集</h3>
 <pre>
 1.文章内容采集；
